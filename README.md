@@ -1,4 +1,4 @@
-# badbank
+
 
 # Bad Bank 
 
@@ -26,7 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project uses React, Express, and MongoDB.
 
 ## Screenshots
-
+![image](https://user-images.githubusercontent.com/87145748/158071658-23fbdabe-ca5a-4830-b5db-48d86c363f2e.png)
 
 ## Features
 * Use create-react-app to set up files and folders
